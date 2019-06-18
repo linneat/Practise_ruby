@@ -10,3 +10,4 @@ count = 7
   stars = '*' * count
   puts stars
 end
+
