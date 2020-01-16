@@ -4,12 +4,6 @@ content = [
   [3, 'My name is too big to fit in there', 15],
 ]
 
-
-
-
-
-
-
 line_width = 80
 space_for_the_page = 10
 space_left = line_width - space_for_the_page

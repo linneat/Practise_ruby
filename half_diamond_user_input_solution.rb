@@ -1,3 +1,4 @@
+
 puts 'Enter the maximum number of rows (odd number):'
 size = gets.chomp.to_i
 space = ' '
