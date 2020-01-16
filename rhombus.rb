@@ -6,7 +6,4 @@ star = width
 width.times do |row|
   space_count = width - row - 1
   puts space * space_count + '*' * star
-
-
-
 end 
